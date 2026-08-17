@@ -1,16 +1,25 @@
-## Hi there 👋
+## Kira Kira ~
 
-<!--
-**kirifox2525/kirifox2525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你好，我是 Kirifox ，你可以叫我雾狐/雾璃/雾玲...
 
-Here are some ideas to get you started:
+不管啦，反正这就是咱的地盘了（bushi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+自设什么的还在想呢...先挂着小葱当头像吧...
+
+## Devices
+
+- iPhone 17 Pro Max
+- Xiaomi Pad 7
+- Xiaomi Band 9 Pro
+- Lenovo ThinkBook 16p IAX (你说这内存涨价什么时候是个头啊 QAQ )
+
+## Environments
+
+- Windows
+- Ubuntu (WSL/Hyper-V VM)
+- Android
+- iOS
+
+## Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirifox2525&theme=ocean_dark&animation=rise&name=Kirifox)
