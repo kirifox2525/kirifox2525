@@ -11,7 +11,7 @@
 - iPhone 17 Pro Max
 - Xiaomi Pad 7
 - Xiaomi Band 9 Pro
-- Lenovo ThinkBook 16p IAX (你说这内存涨价什么时候是个头啊 QAQ )
+- Lenovo ThinkBook 16p IAX (这内存涨价什么时候是个头啊 QAQ )
 
 ## Environments
 
